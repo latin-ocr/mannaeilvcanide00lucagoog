@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mannaeilvcanide00lucagoog_0007.png"; bbox 0 0 2875 4234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 332 1620 1047 1726">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 332 1620 1047 1726">
+     <span class='ocr_line' id='line_1_1' title="bbox 332 1620 1047 1726; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 332 1633 401 1726; x_wconf 89' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_2' title='bbox 448 1620 546 1724; x_wconf 84' lang='lat' dir='ltr'>AN</span> <span class='ocrx_word' id='word_1_3' title='bbox 554 1620 730 1725; x_wconf 77' lang='lat' dir='ltr'>NAEI</span> <span class='ocrx_word' id='word_1_4' title='bbox 780 1631 1047 1725; x_wconf 80' lang='lat' dir='ltr'>LVCANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 400 1837 987 1999">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 400 1837 987 1999">
+     <span class='ocr_line' id='line_1_2' title="bbox 400 1837 987 1999; baseline -0.002 -50"><span class='ocrx_word' id='word_1_5' title='bbox 400 1869 487 1949; x_wconf 82' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 539 1837 987 1999; x_wconf 70' lang='lat' dir='ltr'>BELLO}CIV1L1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 380 2096 813 2158">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 380 2096 813 2158">
+     <span class='ocr_line' id='line_1_3' title="bbox 380 2096 813 2158; baseline 0.009 -4"><span class='ocrx_word' id='word_1_7' title='bbox 380 2096 383 2101; x_wconf 78' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 567 2098 708 2158; x_wconf 89' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_9' title='bbox 739 2099 813 2158; x_wconf 87' lang='lat' dir='ltr'>.v11</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1442 4234">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1442 4234">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1442 4234; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1442 4234; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
